@@ -133,15 +133,6 @@ A React-based weather application that provides current weather information for 
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahidharBoppana&show_icons=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahidharBoppana&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
