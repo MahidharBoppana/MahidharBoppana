@@ -129,7 +129,10 @@ A responsive GitHub profile search application powered by the **GitHub API**.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MahidharBoppana&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=MahidharBoppana&theme=github-dark-blue&hide_border=true&border_radius=10"
+    alt="GitHub Streak"
+  />
 
 </div>
 
