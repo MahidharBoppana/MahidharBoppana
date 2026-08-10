@@ -172,13 +172,63 @@ A responsive GitHub profile search tool that pulls live data straight from the G
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MahidharBoppana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahidharBoppana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🔥 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=MahidharBoppana&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahidharBoppana&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=MahidharBoppana&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🧠 Problem Solving
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/MahidharBoppana?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MahidharBoppana/MahidharBoppana/output/github-contribution-grid-snake.svg" width="98%"/>
-
-<sub>This renders once the <a href="https://github.com/Platane/snk">snk GitHub Action</a> is set up on your profile repo — see note below.</sub>
+<img src="https://raw.githubusercontent.com/MahidharBoppana/MahidharBoppana/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
